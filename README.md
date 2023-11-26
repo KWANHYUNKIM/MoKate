@@ -27,16 +27,31 @@ Developer, Technical Writer<br><br>
 <Strong> UI 설계 및 스타일 가이드 제작 </Strong> <br><br>
 <img width="600" alt="스크린샷 2023-11-26 오후 12 10 13" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/046e63be-dc9a-42c6-af56-3d3da239f8ed"> <br><br>
 <Strong>웹사이트 제작 </Strong> <br><br>
-<img width="600" alt="스크린샷 2023-11-26 오후 12 27 50" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/9cd43fc0-1946-4a2f-a6ed-8cdb752cb41f"> 
-
-# 스타일 가이드
+<img width="600" alt="스크린샷 2023-11-26 오후 12 27 50" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/9cd43fc0-1946-4a2f-a6ed-8cdb752cb41f"> <br><br>
+<Strong>스타일 가이드 라인 </Strong> <br><br>
 [MKE002_Mokate_Styleguide_Part1.pdf](https://github.com/KWANHYUNKIM/MoKate/files/13465849/MKE002_Mokate_Styleguide_Part1.pdf)
 
-
-
 # 수정 과정
+수정 과정은 한주에 한번씩 만나서 직접 미팅을 진행한 경우가 많습니다. 하지만, 코로나 시국이라서 가끔씩은 이메일이나 보고서를 통해서 주고받은 경우도 있고 전화를 통해서 주고받은적도 있습니다. <br><br>
 <img width="600" alt="스크린샷 2023-11-26 오후 12 24 54" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/ccbacfc5-19f4-49f3-bd64-085b4b907101"> <br>
 [MoKate_-_Website_(1).docx](https://github.com/KWANHYUNKIM/MoKate/files/13465845/MoKate_-_Website_.1.docx)
 
-# 
+# 프로젝트 진행
+
+<img width="509" alt="스크린샷 2023-11-26 오후 4 36 54" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/40a98f72-8c2e-4896-b644-f7a6551df0dc">
+
+# 기여
+
+<img width="576" alt="스크린샷 2023-11-26 오후 4 38 06" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/616221f9-a916-4de6-a28a-d6f743673ba0">
+
+<Strong> 커뮤니케이션 플랜 </Strong> <br><br> 
+<img width="638" alt="스크린샷 2023-11-26 오후 4 38 42" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/7d0bdc5a-c5d3-4b3a-bac9-f53fdd45c5be">
+
+# 최종 보고서 
+
+이 보고서에 모든 내용이 담겨져 있습니다. <br><br>
+
+https://docs.google.com/document/d/1RdPnCEYdPNAsv4MbGCWyukRAoEG-Kl2Y/edit?usp=sharing&ouid=100261557027096670290&rtpof=true&sd=true
+
+
 
