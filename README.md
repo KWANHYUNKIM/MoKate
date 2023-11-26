@@ -28,15 +28,15 @@ Developer, Technical Writer<br><br>
 <img width="600" alt="스크린샷 2023-11-26 오후 12 10 13" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/046e63be-dc9a-42c6-af56-3d3da239f8ed"> <br><br>
 <Strong>웹사이트 제작 </Strong> <br><br>
 <img width="600" alt="스크린샷 2023-11-26 오후 12 27 50" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/9cd43fc0-1946-4a2f-a6ed-8cdb752cb41f"> 
-
-# 스타일 가이드
+<Strong> 스타일 가이드 라인 </Strong> <br><br>
 [MKE002_Mokate_Styleguide_Part1.pdf](https://github.com/KWANHYUNKIM/MoKate/files/13465849/MKE002_Mokate_Styleguide_Part1.pdf)
-
-
 
 # 수정 과정
 <img width="600" alt="스크린샷 2023-11-26 오후 12 24 54" src="https://github.com/KWANHYUNKIM/MoKate/assets/55569899/ccbacfc5-19f4-49f3-bd64-085b4b907101"> <br>
 [MoKate_-_Website_(1).docx](https://github.com/KWANHYUNKIM/MoKate/files/13465845/MoKate_-_Website_.1.docx)
 
-# 
+# 프로젝트 리포트
+
+[St.Binary_CapstoneReport2.docx](https://github.com/KWANHYUNKIM/MoKate/files/13466179/St.Binary_CapstoneReport2.docx)
+
 
